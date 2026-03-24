@@ -16,6 +16,7 @@
 - 🏆 &nbsp;**2× Hackathon Winner** — Solo (Western University) + Team (SmileHacks Toronto)
 - 📖 &nbsp;**Guinness World Record** — World's Youngest Sports Author (*Ten Moments That Changed Cricket*)
 - 🥇 &nbsp;**Cambridge Outstanding Learner Award** — Highest CS score in Punjab Province
+- 🔬 &nbsp;**9 Science Olympiad Awards** — 1st in CS, Math & Biology (LGS Innoventions '23); 1st Crime-Solving + Best Team (BLL MADS '22); 2nd in Astronomy, Math & CS (LGS Scienject '23)
 - 🌍 &nbsp;**SAT 1580** — 99th percentile among 5,600,000 students
 - 🏏 &nbsp;Founder of **The Cricketing Hour** — Pakistan's largest youth-run cricket blog (50K+ views)
 - 🔬 &nbsp;Research Developer on **BeamerPlus** w/ Prof. Chandra Gummaluru @ UofT
