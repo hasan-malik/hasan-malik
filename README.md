@@ -72,7 +72,7 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasan-malik&show_icons=true&theme=dark&bg_color=09090f&title_color=2997ff&icon_color=2997ff&text_color=f5f5f7&border_color=2c2c3e&hide_rank=true&hide=contribs)](https://github.com/hasan-malik)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasan-malik&show_icons=true&theme=dark&bg_color=09090f&title_color=2997ff&icon_color=2997ff&text_color=f5f5f7&border_color=2c2c3e&hide_rank=true&hide=contribs,stars)](https://github.com/hasan-malik)
 &nbsp;&nbsp;
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-malik&layout=compact&theme=dark&bg_color=09090f&title_color=2997ff&text_color=f5f5f7&border_color=2c2c3e&hide=css,html&exclude_repo=hasan-malik.github.io,hasan-malik)](https://github.com/hasan-malik)
 
