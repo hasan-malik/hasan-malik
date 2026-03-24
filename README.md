@@ -14,7 +14,7 @@
 
 - 🎓 &nbsp;Computer Science @ **University of Toronto** — GPA **4.00 / 4.00**, UofT Scholar Award
 - 🏆 &nbsp;**2× Hackathon Winner** — Solo (Western University) + Team (SmileHacks Toronto)
-- 📖 &nbsp;**Guinness World Record** — World's Youngest Sports Author (*Ten Moments That Changed Cricket*)
+- 📖 &nbsp;**World Record** — World's Youngest Sports Author (*Ten Moments That Changed Cricket*)
 - 🥇 &nbsp;**Cambridge Outstanding Learner Award** — Highest CS score in Punjab Province
 - 🔬 &nbsp;**Ranked 1st** in CS, Mathematics & Biology at national science olympiads — 9 awards across 4 competitions including Best Science Team (2022–2023)
 - 🌍 &nbsp;**SAT 1580** — 99th percentile among 5,600,000 students
