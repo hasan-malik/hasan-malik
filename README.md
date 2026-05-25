@@ -84,17 +84,19 @@
 
 | Year | Event | Result |
 |---|---|---|
-| 2026 | Spark Case Competition × Hackathon, Western University | 🏆 Winner (Solo) |
-| 2026 | SmileHacks Toronto | 🥉 Overall 3rd Prize |
-| 2025 | MacHacks, McMaster University | 🎙 Participant |
+| 2026 | Spark Case Competition × Hackathon, Western University | 🏆 |
+| 2026 | SmileHacks Toronto | 🏆 |
+| 2025 | MacHacks, McMaster University | |
 
 ---
 
 <div align="center">
 
+<!-- GitHub stats widgets disabled (not loading)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasan-malik&show_icons=true&theme=dark&bg_color=09090f&title_color=2997ff&icon_color=2997ff&text_color=f5f5f7&border_color=2c2c3e&hide_rank=true&hide=contribs,stars)](https://github.com/hasan-malik)
 &nbsp;&nbsp;
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-malik&layout=compact&theme=dark&bg_color=09090f&title_color=2997ff&text_color=f5f5f7&border_color=2c2c3e&hide=css,html&exclude_repo=hasan-malik.github.io,hasan-malik&langs_count=4)](https://github.com/hasan-malik)
+-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2997ff,100:09090f&height=100&section=footer" width="100%"/>
 
