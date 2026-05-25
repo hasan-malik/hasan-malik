@@ -70,7 +70,7 @@
 | Project | Description | Stack | Award |
 |---|---|---|---|
 | [**TransitSim**](https://github.com/hasan-malik/TransitSim) | Parameterized 3D digital twin simulating 620K daily Toronto trips across 11 climate/GDP metrics | Python · FastAPI · NumPy · React | 🌆 [Live Demo](https://hasan-malik.github.io/TransitSim/) |
-| [**TensorFlow Probability**](https://github.com/tensorflow/probability/pull/2023) | Added configurable line-search tuning to the BFGS optimization engine | Python · TensorFlow | 🔀 Merged PR #2023 |
+| [**TensorFlow Probability**](https://github.com/tensorflow/probability) | Added configurable line-search tuning to the BFGS optimization engine | Python · TensorFlow | [PR #2023](https://github.com/tensorflow/probability/pull/2023) · [PR #2024](https://github.com/tensorflow/probability/pull/2024) |
 | [**UC BorrowBox**](https://github.com/hasan-malik/UC-BorrowBox) | Food-, utensil-, and item-sharing system for University College residents | Node.js · Express · PostgreSQL · React | 🌐 [Live](https://ucborrowbox.netlify.app) |
 | [**StarTooth**](https://github.com/notjackl3/smilehacks) | 2D dental X-ray → interactive 3D model with real-time pathology simulation | TypeScript · Next.js · React · PostgreSQL | 🥉 Overall 3rd, SmileHacks |
 | [**Sparky**](https://github.com/hasan-malik/sparky) | Conversational iOS logistics agent coordinating medical transit in low-infrastructure regions | SwiftUI · SFSpeechRecognizer | 🏆 Hackathon Winner |
